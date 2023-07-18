@@ -1,5 +1,6 @@
+<!--  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=51&descAlign=59)
-
+-->
 ### :man_technologist: About me:
 
 I'm an aspiring Data Science specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I like to develop machine learning models and interact with them because it doesn't limit my creative abilities.
