@@ -21,6 +21,11 @@ I'm an aspiring Data Science specialist <img src="https://media.giphy.com/media/
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=RedAlexDad&repo=linkedin_hackathon" alt="linkedin_hackathon">
       </a>
     </td>
+    <td>
+      <a href="https://github.com/RedAlexDad/telegram_bot_support_auchan">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RedAlexDad&repo=telegram_bot_support_auchan" alt="telegram_bot_support_auchan">
+      </a>
+    </td>
   </tr>
 </table>
 
